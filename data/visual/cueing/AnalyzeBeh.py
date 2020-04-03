@@ -114,10 +114,3 @@ column_dict = { 'Participant':subs,
 df = pd.DataFrame(column_dict)
 print(df)
 df.to_csv('375CueingBehPy.csv',index=False)
-
-
-
-
-
-
-
